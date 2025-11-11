@@ -128,13 +128,14 @@ All core features were verified successfully, and identified issues were reporte
 
 ---
 ## 📂 Project Structure
--RobomartBD/
--├── Test Plan for RobomartBD.docx
--├── Test_Cases_RobomartBD.xlsx
--├── Bug_Report_RobomartBD.xlsx
--├── Test_Summary_Report_RobomartBD.xlsx
--├── README.md
-
+```RobomartBD/
+├── 🖼️ sqa moc.png # Mockup image of the application
+├── 📄 Test Plan for RobomartBD.docx # Detailed test plan document
+├── 📊 Test_Cases_RobomartBD.xlsx # Test cases for functional/non-functional testing
+├── 🐞 Bug_Report_RobomartBD.xlsx # Logged bugs with severity and status
+├── 📈 Test_Summary_Report_RobomartBD.xlsx # Summary of testing results and metrics
+├── 📘 README.md # Project documentation (this file)
+```
 ---
 
 ## 🏁 Conclusion
