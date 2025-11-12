@@ -70,6 +70,7 @@ This project focuses on **Software Quality Assurance (SQA)** — covering the **
 | **Test_Cases_RobomartBD.xlsx** | Contains all designed test cases. |
 | **Bug_Report_RobomartBD.xlsx** | Logs identified defects with status and severity. |
 | **Test_Summary_Report_RobomartBD.xlsx** | Summarizes test results and overall quality outcome. |
+| **Final_QA_Project_Presentation_RobomartBD.docx** | professional summary of the project. |
 
 ---
 
