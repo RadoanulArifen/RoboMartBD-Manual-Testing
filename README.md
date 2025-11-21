@@ -149,4 +149,3 @@ It showcases **manual testing expertise**, **defect management**, and **quality 
 
 
 
-## 📎 Repository Structure
